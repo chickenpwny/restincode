@@ -1,0 +1,38 @@
+{
+        "firstname" : "Keven",
+        "lastname" : "White",
+        "handle" : "L3thal",
+        "birth" : "Oct 24th 1977",
+        "death" : "2017",
+        "obituary" : "",
+        "issue" : "",
+        "affiliations" : "SmashTheStack",
+        "mainimage" : "/images/kevinwhite.jpg",
+        "maintext" : "Loved by his friends, kind and full of energy keven was an amazing soul.",
+        "socialmedialinks" : [
+                {
+                        "sitename" : "Twitter",
+                        "siteurl" : "https://twitter.com/l3thal_sts"
+                },
+                {
+                        "sitename" : "Github",
+                        "siteurl" : "https://github.com/l3thal"
+                },
+                {
+                        "sitename" : "Facebook",
+                        "siteurl" : "https://www.facebook.com/outlawscumbag"
+                },
+                {
+                        "sitename" : "SmashTheStack",
+                        "siteurl" : "http://smashthestack.org/l3thal/bof.txt"
+                }
+        ],
+        "contributions" : [
+                {
+                        "title" : "micq",
+                        "url" : "htps://www.cyberz.tech/",
+                        "description" : "Micq (Matt's ICQ) is a text mode (console) ICQ client for Linux and Unix based Operating Systems, originally written by Matthew D Smith with the first versions being used very early 1998."
+                }
+        ]
+}
+~            
